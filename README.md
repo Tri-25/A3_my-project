@@ -1,6 +1,7 @@
 # A3_my-project
 
 This is a test prject
-<!-- START_SECTION:updates -->
-*TEST*
-<!-- END_SECTION:updates -->
+
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
