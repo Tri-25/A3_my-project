@@ -4,14 +4,14 @@ This is a test prject
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 📝 Committed to feat/e1-same-lines-b in [wi24b141/devops-A6](https://github.com/wi24b141/devops-A6/commit/3870076067089fd054bc603e59cb8af875eb7ff6)
-2. 📝 Committed to main in [Tri-25/activity-log-pipeline](https://github.com/Tri-25/activity-log-pipeline/commit/3721e2a0c1870ce899777fdbd9a7924807d8a457)
-3. 📝 Committed to main in [Tri-25/activity-log-pipeline](https://github.com/Tri-25/activity-log-pipeline/commit/852161729dec4e221c9a7879b0662cb07949f528)
-4. 🎉 Created a new branch e3-ramon in [Tri-25/activity-log-pipeline](https://github.com/Tri-25/activity-log-pipeline/tree/e3-ramon)
-5. 📝 Committed to feat/e3-separate-file-b in [wi24b141/devops-A6](https://github.com/wi24b141/devops-A6/commit/44e2df068fe0633ab9e8f487314d02d13e1e38c9)
-6. 📝 Committed to main in [Tri-25/activity-log-pipeline](https://github.com/Tri-25/activity-log-pipeline/commit/c8afacb9f19a01027bcb1f86f716f87151d727bf)
-7. 🎉 Created a new branch Tri-25-patch-1 in [Tri-25/activity-log-pipeline](https://github.com/Tri-25/activity-log-pipeline/tree/Tri-25-patch-1)
-8. 🎉 Created a new branch main in [Tri-25/A6_collab_repo](https://github.com/Tri-25/A6_collab_repo/tree/main)
-9. 📥 Opened PR #9 in [Tri-25/activity-log-pipeline](https://github.com/Tri-25/activity-log-pipeline/pull/9)
-10. 🔎 Created PR #8 in [Tri-25/activity-log-pipeline](https://github.com/Tri-25/activity-log-pipeline/pull/8#pullrequestreview-5664349162)
+1. 📝 Committed to Tri-25-patch-1 in [Tri-25/activity-log-pipeline](https://github.com/Tri-25/activity-log-pipeline/commit/809d7eead8456dcd51c2a1c639cb444b6f9d02e3)
+2. 📝 Committed to main in [Tri-25/activity-log-pipeline](https://github.com/Tri-25/activity-log-pipeline/commit/128659311e85973d12de761c84a469bbff3ee0be)
+3. 📝 Committed to e3-mario in [Tri-25/activity-log-pipeline](https://github.com/Tri-25/activity-log-pipeline/commit/d7124e8055d2eb6460a357c40d32ff8e5e88ee24)
+4. 📝 Committed to main in [Tri-25/activity-log-pipeline](https://github.com/Tri-25/activity-log-pipeline/commit/36b67226923a5298332c9bf3e9392a297b869d3e)
+5. 🎉 Created a new branch Tri-25-patch-1 in [Tri-25/activity-log-pipeline](https://github.com/Tri-25/activity-log-pipeline/tree/Tri-25-patch-1)
+6. 📝 Committed to main in [Tri-25/activity-log-pipeline](https://github.com/Tri-25/activity-log-pipeline/commit/ec05fc26d278da81f9aa7dafc20df9a4f2e30c1f)
+7. 📝 Committed to e3-ramon in [Tri-25/activity-log-pipeline](https://github.com/Tri-25/activity-log-pipeline/commit/feacb9d6fc6d534a4fc33c9b562de07051fa1e50)
+8. 📝 Committed to e2-mario in [Tri-25/activity-log-pipeline](https://github.com/Tri-25/activity-log-pipeline/commit/8c1622588da24dc3803100e5ceaa273689e7e705)
+9. 📝 Committed to e1-ramon in [Tri-25/activity-log-pipeline](https://github.com/Tri-25/activity-log-pipeline/commit/832a238b974775449552bae947b834a739b45a71)
+10. 📝 Committed to main in [Tri-25/activity-log-pipeline](https://github.com/Tri-25/activity-log-pipeline/commit/70bcac9a8497bc1f6b469392bfadee84c13aff1a)
 <!--END_SECTION:activity-->
